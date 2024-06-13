@@ -1,0 +1,18 @@
+baseURL = 'andywells.dev'
+languageCode = 'en-us'
+title = 'Andy Wells Personal Site'
+theme = 'PaperMod'
+
+[[menu.main]]
+identifier = 'CV'
+name = 'CV'
+url = '/cv/'
+weight = '20'
+
+
+[[menu.main]]
+identifier = 'TEST'
+name = 'TEST'
+url = '/test/'
+weight = '20'
+
