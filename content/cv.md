@@ -1,5 +1,5 @@
 +++
-title = 'Andy Wells CV'
+title = 'Andy Wells'
 date = 2024-06-12T22:48:44-05:00
 draft = false
 +++
@@ -12,7 +12,7 @@ St.Paul, MN 55105
 
 **(651)-210-5691**
 
-**Andy@freude.com**
+**Andy@freude.com | Andywells@andywells.dev**
 
 **Education**
 =============

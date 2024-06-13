@@ -3,16 +3,35 @@ languageCode = 'en-us'
 title = 'Andy Wells Personal Site'
 theme = 'PaperMod'
 
+[params.profileMode]
+enabled = true
+title = "Andy Wells"
+subtitle = "Computer engineering student and electronics hobbyist"
+imageUrl = "<img location>"
+imageWidth = 120
+imageHeight = 120
+imageTitle = "my image"
+
+  [[params.profileMode.buttons]]
+  name = "Blog"
+  url = "/post/"
+
+  [[params.profileMode.buttons]]
+  name = "Resume"
+  url = "/cv/"
+
+
+[[menu.main]]
+identifier = 'Blog'
+name = 'Blog'
+url = '/post/'
+weight = '50'
+
 [[menu.main]]
 identifier = 'CV'
 name = 'CV'
 url = '/cv/'
-weight = '20'
+weight = '50'
 
 
-[[menu.main]]
-identifier = 'TEST'
-name = 'TEST'
-url = '/test/'
-weight = '20'
 
