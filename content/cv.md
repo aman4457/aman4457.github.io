@@ -143,5 +143,6 @@ High school Saint Paul Academy High School, Graduated in May, 2024
 **Awards**
 ==========
 
-Minnesota Boychoir alto section leader 2018 - 2019 and 2019-2020
-Minnesota Boychoir Baritone section leader 2023 -2024
+*   Minnesota Boychoir alto section leader 2018 - 2019 and 2019-2020
+
+*   Minnesota Boychoir Baritone section leader 2023 -2024
