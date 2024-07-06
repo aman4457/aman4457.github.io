@@ -17,7 +17,6 @@ This ia a test page
 
 ## this is a test page used to tune css paramaters
 
-I love writing cool stuff like **Bold** *test* test test test test test test test test test 
-
+I love writing cool stuff like **Bold** *test* ***test*** test test test test test test test test 
 
 test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test 

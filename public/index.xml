@@ -4,17 +4,10 @@
     <title>Andy Wells Personal Site</title>
     <link>//localhost:1313/</link>
     <description>Recent content on Andy Wells Personal Site</description>
-    <generator>Hugo -- 0.127.0</generator>
+    <generator>Hugo -- 0.128.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Jun 2024 11:14:45 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 22:48:44 -0500</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>//localhost:1313/test/</link>
-      <pubDate>Thu, 13 Jun 2024 11:14:45 -0500</pubDate>
-      <guid>//localhost:1313/test/</guid>
-      <description>This is a markdown test italics bold Both</description>
-    </item>
     <item>
       <title>Andy Wells</title>
       <link>//localhost:1313/cv/</link>
@@ -24,23 +17,22 @@
 378 S Macalester St. St.Paul, MN 55105
 (651)-210-5691
 Andy@freude.com | Andywells@andywells.dev
-Education High school Saint Paul Academy High School, Graduated in May, 2024
-Skills Leadership
+Education High school Saint Paul Academy High School, Graduated in May, 2024 Computer Engineering Freshman at Iowa State University Skills Leadership
 Mentorship
 C
 Python
 Norwegian
 Mechanical engineering for robotics
-Experience 2022 - present Saint Paul Arena Company (Xcel Energy Center) - Usher Scanned tickets Make sure sections in the arena are orderly
-a friendly person for people to ask questions to</description>
+Experience 2022 - present Saint Paul Arena Company (Xcel Energy Center) - Usher Scanned tickets Make sure sections in the arena are orderly</description>
     </item>
     <item>
       <title>Test Post</title>
-      <link>//localhost:1313/post/post/</link>
+      <link>//localhost:1313/test/</link>
       <pubDate>Wed, 12 Jun 2024 22:37:36 -0500</pubDate>
-      <guid>//localhost:1313/post/post/</guid>
-      <description>This ia a test blog post
-Hugo is really cool H1 H2 H3 H4 H5 H6 / title centered this is a test page used to tune css paramaters I love writing cool stuff like Bold test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test</description>
+      <guid>//localhost:1313/test/</guid>
+      <description>This ia a test page
+Hugo is really cool H1 H2 H3 H4 H5 H6 / title centered this is a test page used to tune css paramaters I love writing cool stuff like Bold test test test test test test test test test test
+test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test</description>
     </item>
   </channel>
 </rss>

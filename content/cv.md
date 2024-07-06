@@ -17,7 +17,8 @@ St.Paul, MN 55105
 **Education**
 =============
 
-High school Saint Paul Academy High School, Graduated in May, 2024
+### High school Saint Paul Academy High School, Graduated in May, 2024
+### Computer Engineering Freshman at Iowa State University
 
 **Skills**
 ==========
