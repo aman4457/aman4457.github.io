@@ -39,10 +39,10 @@ St.Paul, MN 55105
 **Experience**
 ==============
 
-2022  - present
----------------
 
+#### 2022  - present
 ### **Saint Paul Arena Company (Xcel Energy Center)** _\- Usher_
+
 
 *   Scanned tickets 
     
@@ -50,9 +50,7 @@ St.Paul, MN 55105
     
 *   a friendly person for people to ask questions to
     
-2024  - present
----------------
-
+#### 2024  - present
 ### **Northern Star Scouting Base Camp** _\- Program Guide_
 
 *   Led groups through base camp
@@ -61,8 +59,8 @@ St.Paul, MN 55105
 
 *   Kids all the way from Kindergarten to highschool age
 
-2020 - 2022
------------
+#### 2020 - 2022
+
 
 ### **Spark club at Saint Paul Academy High School** _\- Project lead_
 
@@ -71,8 +69,8 @@ St.Paul, MN 55105
 *   Helped with recruiting at the club fair
     
 
-2014 - 2024
---------------
+#### 2014 - 2024
+
 
 ### **Scouts BSA** _\- Eagle scout and troop guide_ 
 
@@ -89,8 +87,8 @@ St.Paul, MN 55105
 *   Patrol leader of  a group of seven younger scouts, 2018 - 2019 
     
 
- 2020-2022 2023-2024
---------------------
+#### 2020-2022 2023-2024
+
 
 ### **Robotics Team at Saint Paul Academy High School**_\- Coder and Engineer_
 
@@ -101,8 +99,8 @@ St.Paul, MN 55105
 *   Mentored new coders
     
 
-2018-2020
----------
+#### 2018-2020
+
 
 ### **Robotics Team at Holy Spirit Middle School**_\- Lead coder and founding member_
 
@@ -111,16 +109,16 @@ St.Paul, MN 55105
 *   Mentored new coders
     
 
-2017 - 2020
------------
+#### 2017 - 2020
+
 
 ### **Holy Spirit Middle School** _\- Student shadow partner_
 
 *   Presented a friendly student first point of contact for prospective students spending a day at Holy Spirit
     
 
-2012 - 2024
---------------
+#### 2012 - 2024
+
 
 ### **Minnesota Boychoir** _\- Choirboy and Cantarando mentor_
 
@@ -131,8 +129,8 @@ St.Paul, MN 55105
 *   Senior year Helping make sure other choirboys are included and loading and unloading busses
     
 
-2013 - 2023
------------
+#### 2013 - 2023
+
 
 ### **Skogfjorden (Norwegian camp)** _\- Camper_
 
@@ -140,6 +138,39 @@ St.Paul, MN 55105
     
 *   Helped many younger campers navigate camp and translate announcements 
     
+**Personal Projects**
+==========
+
+### Homebrew 8 bit ALU
+
+* Built Originally on breadboards
+
+* Taught me lots of troubleshooting and project management skills
+
+* Built using 74LS and 74HCT series TTL logic chips
+
+* Able to do Addition, Subtraction, NAND, and Right Shifts
+
+* Currently testing first PCB version
+
+### Main Computer
+
+* Custom Built PC 
+
+* Dual Boot of Windows 11 and Linux Mint
+
+### Server
+
+* Built using Old Main PC parts
+
+* Running Proxmox
+
+### Websites
+
+* I have two personal websites andy-wells.com (Wordpress) and andywells.dev (Hugo)
+
+* I manage multiple more websites for my family members
+
 
 **Awards**
 ==========
