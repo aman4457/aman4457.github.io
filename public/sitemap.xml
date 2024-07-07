@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/cv/</loc>
+    <loc>andywells.dev/cv/</loc>
     <lastmod>2024-06-12T22:48:44-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>andywells.dev/</loc>
     <lastmod>2024-06-12T22:48:44-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/test/</loc>
+    <loc>andywells.dev/test/</loc>
     <lastmod>2024-06-12T22:37:36-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>andywells.dev/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>andywells.dev/tags/</loc>
   </url>
 </urlset>
