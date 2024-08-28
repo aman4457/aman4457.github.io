@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Andy Wells Personal Site</title>
+    <link>//localhost:1313/post/</link>
+    <description>Recent content in Posts on Andy Wells Personal Site</description>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jul 2024 20:12:29 -0500</lastBuildDate>
+    <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>8 bit ALU build and design</title>
+      <link>//localhost:1313/post/post/</link>
+      <pubDate>Sat, 06 Jul 2024 20:12:29 -0500</pubDate>
+      <guid>//localhost:1313/post/post/</guid>
+      <description>Building an 8bit ALU using 74LS and 74HCT logic chips For my highschool senior year project I decided to build and design an ALU I worked with Dr. Stoytchev a computer engineering professer at Iowa State University where I am going to college. I did the main design work in Logisim and Canva, and then built the ALU on a few breadboards. I started by making a Block Diagram of the ALU using canva so I could lay out the control scheme and get an idea of the scale and complexity of the project.</description>
+    </item>
+  </channel>
+</rss>
