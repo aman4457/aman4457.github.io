@@ -75,6 +75,8 @@ St.Paul, MN 55105
 ### **Scouts BSA** _\- Eagle scout and troop guide_ 
 
 *   Lead skill teaching for younger scouts
+
+*   OA Ordeal Member
     
 *   Planned and Completed a STEM based Eagle project
     
