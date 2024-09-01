@@ -55,7 +55,7 @@ St.Paul, MN 55105
 
 *   Led groups through base camp
 
-*   Run team building games, run the archery range, and belaying on the rockwall 
+*   Run team building games, run the archery range, and belaying people up the rockwall 
 
 *   Kids all the way from Kindergarten to highschool age
 
