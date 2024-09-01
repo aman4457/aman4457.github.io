@@ -98,7 +98,7 @@ St.Paul, MN 55105
     
 *    Designed,  prototyped  and 3d modeled our intake and outtake mechanism in 2023-2024
     
-*   Mentored new coders
+*    Mentored new coders
     
 
 #### 2018-2020
