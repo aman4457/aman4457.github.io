@@ -101,24 +101,6 @@ St.Paul, MN 55105
 *   Mentored new coders
     
 
-#### 2018-2020
-
-
-### **Robotics Team at Holy Spirit Middle School**_\- Lead coder and founding member_
-
-*   Programmed first movement code for our robot
-    
-*   Mentored new coders
-    
-
-#### 2017 - 2020
-
-
-### **Holy Spirit Middle School** _\- Student shadow partner_
-
-*   Presented a friendly student first point of contact for prospective students spending a day at Holy Spirit
-    
-
 #### 2012 - 2024
 
 
@@ -154,18 +136,6 @@ St.Paul, MN 55105
 * Able to do Addition, Subtraction, NAND, and Right Shifts
 
 * Currently testing first PCB version
-
-### Main Computer
-
-* Custom Built PC 
-
-* Dual Boot of Windows 11 and Linux Mint
-
-### Server
-
-* Built using Old Main PC parts
-
-* Running Proxmox
 
 ### Websites
 
