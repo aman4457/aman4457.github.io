@@ -11,13 +11,14 @@ St.Paul, MN 55105
 
 **(651)-210-5691**
 
-**Andy@freude.com | Andywells@andywells.dev**
+**Andy@freude.com | AndyWells@andywells.dev**
 
 **Education**
 =============
 
-### High school Saint Paul Academy High School, Graduated in May, 2024
-### Computer Engineering Freshman at Iowa State University
+High school Saint Paul Academy High School, Graduated in May 2024
+
+Computer Engineering Freshman at Iowa State University
 
 **Skills**
 ==========
@@ -32,75 +33,50 @@ St.Paul, MN 55105
     
 *   Norwegian
     
-*   Mechanical engineering for robotics
-    
 
 **Experience**
 ==============
 
-
-#### 2022  - present
+### 2022  - present
 ### **Saint Paul Arena Company (Xcel Energy Center)** _\- Usher_
-
 
 *   Scanned tickets 
     
 *   Make sure sections in the arena are orderly
     
-*   a friendly person for people to ask questions to
+*   A friendly person for people to ask questions to
     
-#### 2024  - present
+
+### 2024  - present
+
 ### **Northern Star Scouting Base Camp** _\- Program Guide_
 
-*   Led groups through base camp
-
-*   Run team building games, run the archery range, and belay people up the rockwall 
-
-*   Kids all the way from Kindergarten to highschool age
-
-#### 2020 - 2022
-
-
-### **Spark club at Saint Paul Academy High School** _\- Project lead_
-
-*   Project lead for building a MIDI launchpad
+*   Led groups through Base Camp
     
-*   Helped with recruiting at the club fair
+*   Run team-building games, run the archery range, and belay people up the rock wall
+    
+*   Kids from Kindergarten to high school age
     
 
-#### 2014 - 2024
+### 2014 - 2024
 
 
 ### **Scouts BSA** _\- Eagle scout and troop guide_ 
 
 *   Lead skill teaching for younger scouts
-
+    
 *   OA Ordeal Member
     
-*   Planned and Completed a STEM based Eagle project
+*   Planned and Completed a STEM-based Eagle project
     
 *   Assistant Senior Patrol Leader, second in command of up entire troop, 2020 - 2021
     
-    *   Helped with planning and lead meetings
-        
-    *   Helped with parent relations
+    *   Helped with planning and leading meetings
         
 *   Patrol leader of  a group of seven younger scouts, 2018 - 2019 
     
 
-#### 2020-2022 2023-2024
-
-
-### **Robotics Team at Saint Paul Academy High School**_\- Coder and Engineer_
-
-*   Designed,  prototyped  and 3d modeled our intake mechanism in 2021
-    
-*   Designed,  prototyped  and 3d modeled our intake and outtake mechanism in 2023-2024
-    
-*   Mentored new coders
-    
-
-#### 2012 - 2024
+### 2012 - 2024
 
 
 ### **Minnesota Boychoir** _\- Choirboy and Cantarando mentor_
@@ -112,7 +88,7 @@ St.Paul, MN 55105
 *   Senior year Helping make sure other choirboys are included and loading and unloading busses
     
 
-#### 2013 - 2023
+### 2013 - 2023
 
 
 ### **Skogfjorden (Norwegian camp)** _\- Camper_
@@ -121,31 +97,53 @@ St.Paul, MN 55105
     
 *   Helped many younger campers navigate camp and translate announcements 
     
+
+### 2020 - 2022
+
+### **Spark club at Saint Paul Academy High School** _\- Project lead_
+
+*   Project lead for building a MIDI launchpad
+    
+*   Helped with recruiting at the club fair
+    
+
+### 2020-2022 2023-2024
+
+### **Robotics Team at Saint Paul Academy High School**_\- Coder and Engineer_
+
+*    Designed,  prototyped, and 3d modeled our intake mechanism in 2021
+    
+*    Designed,  prototyped, and 3d modeled our intake and outtake mechanism in 2023-2024
+    
+*   Mentored new coders
+    
+
 **Personal Projects**
-==========
+=====================
 
-### Homebrew 8 bit ALU
+### **Homebrew 8-bit ALU**
 
-* Built Originally on breadboards
+*   Built Originally on breadboards
+    
+*   Taught me lots of troubleshooting and project management skills
+    
+*   Built using 74LS and 74HCT series TTL logic chips
+    
+*   Able to do Addition, Subtraction, NAND, and Right Shifts
+    
+*   Currently testing the first PCB version
+    
 
-* Taught me lots of troubleshooting and project management skills
+### **Websites**
 
-* Built using 74LS and 74HCT series TTL logic chips
-
-* Able to do Addition, Subtraction, NAND, and Right Shifts
-
-* Currently testing first PCB version
-
-### Websites
-
-* I have two personal websites andy-wells.com (Wordpress) and andywells.dev (Hugo)
-
-* I manage multiple more websites for my family members
-
+*   I have two personal websites, andy-wells.com (Wordpress) and andywells.dev (Hugo)
+    
+*   I manage multiple websites for my family members
+    
 
 **Awards**
 ==========
 
-*   Minnesota Boychoir alto section leader 2018 - 2019 and 2019-2020
+Minnesota Boychoir alto section leader 2018 - 2019 and  2019-2020
 
-*   Minnesota Boychoir Baritone section leader 2023 -2024
+Minnesota Boychoir Baritone Section Leader 2023 -2024

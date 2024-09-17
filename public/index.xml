@@ -4,7 +4,7 @@
     <title>Andy Wells Personal Site</title>
     <link>//localhost:1313/</link>
     <description>Recent content on Andy Wells Personal Site</description>
-    <generator>Hugo -- 0.134.0</generator>
+    <generator>Hugo -- 0.134.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Jul 2024 20:12:29 -0500</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -29,14 +29,13 @@ I then designed the NAND module which would allow for any logic operations to be
       <link>//localhost:1313/cv/</link>
       <pubDate>Wed, 12 Jun 2024 22:48:44 -0500</pubDate>
       <guid>//localhost:1313/cv/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Friendly problem solver looking for a part-time customer service position.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;378 S Macalester St. &lt;/p&gt;
+      <description>&lt;p&gt;378 S Macalester St. &lt;/p&gt;
 &lt;p&gt;St.Paul, MN 55105&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;(651)-210-5691&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;mailto:Andy@freude.com&#34;&gt;Andy@freude.com&lt;/a&gt; | &lt;a href=&#34;mailto:Andywells@andywells.dev&#34;&gt;Andywells@andywells.dev&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;mailto:Andy@freude.com&#34;&gt;Andy@freude.com&lt;/a&gt; | &lt;a href=&#34;mailto:AndyWells@andywells.dev&#34;&gt;AndyWells@andywells.dev&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h1 id=&#34;education&#34;&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/h1&gt;
-&lt;h3 id=&#34;high-school-saint-paul-academy-high-school-graduated-in-may-2024&#34;&gt;High school Saint Paul Academy High School, Graduated in May, 2024&lt;/h3&gt;
-&lt;h3 id=&#34;computer-engineering-freshman-at-iowa-state-university&#34;&gt;Computer Engineering Freshman at Iowa State University&lt;/h3&gt;
+&lt;p&gt;High school Saint Paul Academy High School, Graduated in May 2024&lt;/p&gt;
+&lt;p&gt;Computer Engineering Freshman at Iowa State University&lt;/p&gt;
 &lt;h1 id=&#34;skills&#34;&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -52,7 +51,15 @@ I then designed the NAND module which would allow for any logic operations to be
 &lt;p&gt;Python&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Norwegian&lt;/p&gt;</description>
+&lt;p&gt;Norwegian&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;experience&#34;&gt;&lt;strong&gt;Experience&lt;/strong&gt;&lt;/h1&gt;
+&lt;h3 id=&#34;2022---present&#34;&gt;2022  - present&lt;/h3&gt;
+&lt;h3 id=&#34;saint-paul-arena-company-xcel-energy-center-_--usher_&#34;&gt;&lt;strong&gt;Saint Paul Arena Company (Xcel Energy Center)&lt;/strong&gt; &lt;em&gt;- Usher&lt;/em&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Scanned tickets &lt;/p&gt;</description>
     </item>
     <item>
       <title>Test Post</title>
