@@ -21,7 +21,7 @@ imageTitle = "Hiking Photo"
   url = "/cv/"
 
   [[params.profileMode.buttons]]
-  name = "AboutMe"
+  name = "About Me"
   url = "/about/"
 
 [[menu.main]]

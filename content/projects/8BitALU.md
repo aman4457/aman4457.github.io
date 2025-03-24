@@ -1,7 +1,7 @@
 +++
 title = '8 bit ALU build and design'
 date = 2024-07-06T20:12:29-05:00
-draft = true
+draft = false
 +++
 
 ## Building an 8bit ALU using 74LS and 74HCT logic chips
@@ -12,3 +12,5 @@ I next started desiging in Logisim which allows me to fully simulate the ALU and
 ![Photo of the completed design of the adder/subtractor circut](/media/adder-subtractor.png)
 I then designed the NAND module which would allow for any logic operations to be done by doing multiple operations on the same numbers. This module used three chips including the bus tranciver. I used two 7400 chips which have 4 NAND gates each. I used one 74245 to allow access to the main bus. This one is fairly simple and can be adapted to a different logic gate very easily.
 ![Photo of the completed design of the NAND module](/media/NAND_module.png)
+Next I designed the Bit Shift circut which consisted of multiplexers hooked up in a specific way. I used 74245s for bus access again.
+Finally I designed 
