@@ -1,25 +1,25 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="noindex, nofollow">
+<meta name="robots" content="index, follow">
 <title>Posts | Andy Wells Personal Site</title>
 <meta name="keywords" content="">
 <meta name="description" content="Posts - Andy Wells Personal Site">
 <meta name="author" content="">
-<link rel="canonical" href="//localhost:1313/post/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.86f44be8f4e869057ab9898154e3dd312b6cab58c5b0ceb2fa8a9fc8ecbb774d.css" integrity="sha256-hvRL6PToaQV6uYmBVOPdMStsq1jFsM6y&#43;oqfyOy7d00=" rel="preload stylesheet" as="style">
-<link rel="icon" href="//localhost:1313/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="//localhost:1313/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="//localhost:1313/favicon-32x32.png">
-<link rel="apple-touch-icon" href="//localhost:1313/apple-touch-icon.png">
-<link rel="mask-icon" href="//localhost:1313/safari-pinned-tab.svg">
+<link rel="canonical" href="andywells.dev/post/">
+<link crossorigin="anonymous" href="andywells.dev/assets/css/stylesheet.86f44be8f4e869057ab9898154e3dd312b6cab58c5b0ceb2fa8a9fc8ecbb774d.css" integrity="sha256-hvRL6PToaQV6uYmBVOPdMStsq1jFsM6y&#43;oqfyOy7d00=" rel="preload stylesheet" as="style">
+<link rel="icon" href="andywells.dev/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="andywells.dev/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="andywells.dev/favicon-32x32.png">
+<link rel="apple-touch-icon" href="andywells.dev/apple-touch-icon.png">
+<link rel="mask-icon" href="andywells.dev/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="//localhost:1313/post/index.xml">
-<link rel="alternate" hreflang="en" href="//localhost:1313/post/">
+<link rel="alternate" type="application/rss+xml" href="andywells.dev/post/index.xml">
+<link rel="alternate" hreflang="en" href="andywells.dev/post/">
 <noscript>
     <style>
         #theme-toggle,
@@ -56,7 +56,30 @@
         }
 
     </style>
-</noscript>
+</noscript><meta property="og:title" content="Posts" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="andywells.dev/post/" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Posts"/>
+<meta name="twitter:description" content=""/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "andywells.dev/post/"
+    }
+  ]
+}
+</script>
 </head>
 
 <body class="list" id="top">
@@ -74,7 +97,7 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="//localhost:1313/" accesskey="h" title="Andy Wells Personal Site (Alt + H)">Andy Wells Personal Site</a>
+            <a href="andywells.dev/" accesskey="h" title="Andy Wells Personal Site (Alt + H)">Andy Wells Personal Site</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -100,12 +123,12 @@
         </div>
         <ul id="menu">
             <li>
-                <a href="//localhost:1313/post/" title="Blog">
+                <a href="andywells.dev/andywells.dev/post/" title="Blog">
                     <span class="active">Blog</span>
                 </a>
             </li>
             <li>
-                <a href="//localhost:1313/cv/" title="CV">
+                <a href="andywells.dev/andywells.dev/cv/" title="CV">
                     <span>CV</span>
                 </a>
             </li>
@@ -118,22 +141,10 @@
     Posts
   </h1>
 </header>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">8 bit ALU build and design
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Building an 8bit ALU using 74LS and 74HCT logic chips For my highschool senior year project I decided to build and design an ALU I worked with Dr. Stoytchev a computer engineering professer at Iowa State University where I am going to college. I did the main design work in Logisim and Canva, and then built the ALU on a few breadboards. I started by making a Block Diagram of the ALU using canva so I could lay out the control scheme and get an idea of the scale and complexity of the project. It also allowed me to understand how I wanted to lay out all of the busses and how I would control the different modes of the ALU. I next started desiging in Logisim which allows me to fully simulate the ALU and test my control circuts. I started by designing the adder/subtracter Circut which I used 5 chips for including the bus tranciver. Two 7486 chips to invert and generate the twos complement version of one of the numbers to allow for subraction. Two 74283 adder chips to do the additon and subtraction. Finally one 74245 to allow for access to the main output bus. I then designed the NAND module which would allow for any logic operations to be done by doing multiple operations on the same numbers. This module used three chips including the bus tranciver. I used two 7400 chips which have 4 NAND gates each. I used one 74245 to allow access to the main bus. This one is fairly simple and can be adapted to a different logic gate very easily. ...</p>
-  </div>
-  <footer class="entry-footer"><span title='2024-07-06 20:12:29 -0500 CDT'>July 6, 2024</span></footer>
-  <a class="entry-link" aria-label="post link to 8 bit ALU build and design" href="//localhost:1313/post/post/"></a>
-</article>
     </main>
     
 <footer class="footer">
-        <span>&copy; 2024 <a href="//localhost:1313/">Andy Wells Personal Site</a></span> · 
+        <span>&copy; 2025 <a href="andywells.dev/">Andy Wells Personal Site</a></span> · 
 
     <span>
         Powered by

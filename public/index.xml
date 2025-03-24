@@ -2,33 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Andy Wells Personal Site</title>
-    <link>//localhost:1313/</link>
+    <link>andywells.dev/</link>
     <description>Recent content on Andy Wells Personal Site</description>
-    <generator>Hugo -- 0.134.1</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jul 2024 20:12:29 -0500</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>8 bit ALU build and design</title>
-      <link>//localhost:1313/post/post/</link>
-      <pubDate>Sat, 06 Jul 2024 20:12:29 -0500</pubDate>
-      <guid>//localhost:1313/post/post/</guid>
-      <description>&lt;h2 id=&#34;building-an-8bit-alu-using-74ls-and-74hct-logic-chips&#34;&gt;Building an 8bit ALU using 74LS and 74HCT logic chips&lt;/h2&gt;
-&lt;p&gt;For my highschool senior year project I decided to build and design an ALU I worked with Dr. Stoytchev a computer engineering professer at Iowa State University where I am going to college. I did the main design work in Logisim and Canva, and then built the ALU on a few breadboards. I started by making a Block Diagram of the ALU using canva so I could lay out the control scheme and get an idea of the scale and complexity of the project. It also allowed me to understand how I wanted to lay out all of the busses and how I would control the different modes of the ALU.
-&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/media/BlockDiagram.png&#34; alt=&#34;the block diagram of the alu drawn in canva&#34;  /&gt;
-
-I next started desiging in Logisim which allows me to fully simulate the ALU and test my control circuts. I started by designing the adder/subtracter Circut which I used 5 chips for including the bus tranciver. Two 7486 chips to invert and generate the twos complement version of one of the numbers to allow for subraction. Two 74283 adder chips to do the additon and subtraction. Finally one 74245 to allow for access to the main output bus.
-&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/media/adder-subtractor.png&#34; alt=&#34;Photo of the completed design of the adder/subtractor circut&#34;  /&gt;
-
-I then designed the NAND module which would allow for any logic operations to be done by doing multiple operations on the same numbers. This module used three chips including the bus tranciver. I used two 7400 chips which have 4 NAND gates each. I used one 74245 to allow access to the main bus. This one is fairly simple and can be adapted to a different logic gate very easily.
-&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/media/NAND_module.png&#34; alt=&#34;Photo of the completed design of the NAND module&#34;  /&gt;
-&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Wed, 12 Jun 2024 22:48:44 -0500</lastBuildDate>
+    <atom:link href="andywells.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Andy Wells</title>
-      <link>//localhost:1313/cv/</link>
+      <link>andywells.dev/cv/</link>
       <pubDate>Wed, 12 Jun 2024 22:48:44 -0500</pubDate>
-      <guid>//localhost:1313/cv/</guid>
+      <guid>andywells.dev/cv/</guid>
       <description>&lt;p&gt;378 S Macalester St. &lt;/p&gt;
 &lt;p&gt;St.Paul, MN 55105&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;(651)-210-5691&lt;/strong&gt;&lt;/p&gt;
@@ -56,16 +40,29 @@ I then designed the NAND module which would allow for any logic operations to be
 &lt;/ul&gt;
 &lt;h1 id=&#34;experience&#34;&gt;&lt;strong&gt;Experience&lt;/strong&gt;&lt;/h1&gt;
 &lt;h3 id=&#34;2022---present&#34;&gt;2022  - present&lt;/h3&gt;
-&lt;h3 id=&#34;saint-paul-arena-company-xcel-energy-center-_--usher_&#34;&gt;&lt;strong&gt;Saint Paul Arena Company (Xcel Energy Center)&lt;/strong&gt; &lt;em&gt;- Usher&lt;/em&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;saint-paul-arena-company-xcel-energy-center---usher&#34;&gt;&lt;strong&gt;Saint Paul Arena Company (Xcel Energy Center)&lt;/strong&gt; &lt;em&gt;- Usher&lt;/em&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Scanned tickets &lt;/p&gt;</description>
+&lt;p&gt;Scanned tickets &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Make sure sections in the arena are orderly&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A friendly person for people to ask questions to&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2024---present&#34;&gt;2024  - present&lt;/h3&gt;
+&lt;h3 id=&#34;northern-star-scouting-base-camp---program-guide&#34;&gt;&lt;strong&gt;Northern Star Scouting Base Camp&lt;/strong&gt; &lt;em&gt;- Program Guide&lt;/em&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Led groups through Base Camp&lt;/p&gt;</description>
     </item>
     <item>
       <title>Test Post</title>
-      <link>//localhost:1313/test/</link>
+      <link>andywells.dev/test/</link>
       <pubDate>Wed, 12 Jun 2024 22:37:36 -0500</pubDate>
-      <guid>//localhost:1313/test/</guid>
+      <guid>andywells.dev/test/</guid>
       <description>&lt;p&gt;This ia a test page&lt;/p&gt;
 &lt;h6 id=&#34;hugo-is-really-cool&#34;&gt;Hugo is really cool&lt;/h6&gt;
 &lt;h1 id=&#34;h1&#34;&gt;H1&lt;/h1&gt;
@@ -77,6 +74,13 @@ I then designed the NAND module which would allow for any logic operations to be
 &lt;h2 id=&#34;this-is-a-test-page-used-to-tune-css-paramaters&#34;&gt;this is a test page used to tune css paramaters&lt;/h2&gt;
 &lt;p&gt;I love writing cool stuff like &lt;strong&gt;Bold&lt;/strong&gt; &lt;em&gt;test&lt;/em&gt; &lt;em&gt;&lt;strong&gt;test&lt;/strong&gt;&lt;/em&gt; test test test test test test test test&lt;/p&gt;
 &lt;p&gt;test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>andywells.dev/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>andywells.dev/aboutme/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

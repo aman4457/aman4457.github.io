@@ -13,17 +13,20 @@ imageHeight = 120
 imageTitle = "my image"
 
   [[params.profileMode.buttons]]
-  name = "Blog"
+  name = "Projects"
   url = "/post/"
 
   [[params.profileMode.buttons]]
   name = "Resume"
   url = "/cv/"
 
+  [[params.profileMode.buttons]]
+  name = "AboutMe"
+  url = "/about/"
 
 [[menu.main]]
-identifier = 'Blog'
-name = 'Blog'
+identifier = 'Projects'
+name = 'Projects'
 url = '/post/'
 weight = '50'
 
@@ -31,6 +34,12 @@ weight = '50'
 identifier = 'CV'
 name = 'CV'
 url = '/cv/'
+weight = '50'
+
+[[menu.main]]
+identifier = 'AboutMe'
+name = 'AboutMe'
+url = '/about/'
 weight = '50'
 
 

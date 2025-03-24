@@ -146,4 +146,4 @@ Computer Engineering Freshman at Iowa State University
 
 Minnesota Boychoir alto section leader 2018 - 2019 and  2019-2020
 
-Minnesota Boychoir Baritone Section Leader 2023 -2024
+Minnesota Boychoir Baritone Section Leader 2023 -2024o;8tivo76rice5uw4yxc6ev7bt8ny69m07,-8

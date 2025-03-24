@@ -1,7 +1,7 @@
 +++
 title = '8 bit ALU build and design'
 date = 2024-07-06T20:12:29-05:00
-draft = false
+draft = true
 +++
 
 ## Building an 8bit ALU using 74LS and 74HCT logic chips

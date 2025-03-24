@@ -2,27 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Andy Wells Personal Site</title>
-    <link>//localhost:1313/post/</link>
+    <link>andywells.dev/post/</link>
     <description>Recent content in Posts on Andy Wells Personal Site</description>
-    <generator>Hugo -- 0.134.1</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jul 2024 20:12:29 -0500</lastBuildDate>
-    <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>8 bit ALU build and design</title>
-      <link>//localhost:1313/post/post/</link>
-      <pubDate>Sat, 06 Jul 2024 20:12:29 -0500</pubDate>
-      <guid>//localhost:1313/post/post/</guid>
-      <description>&lt;h2 id=&#34;building-an-8bit-alu-using-74ls-and-74hct-logic-chips&#34;&gt;Building an 8bit ALU using 74LS and 74HCT logic chips&lt;/h2&gt;
-&lt;p&gt;For my highschool senior year project I decided to build and design an ALU I worked with Dr. Stoytchev a computer engineering professer at Iowa State University where I am going to college. I did the main design work in Logisim and Canva, and then built the ALU on a few breadboards. I started by making a Block Diagram of the ALU using canva so I could lay out the control scheme and get an idea of the scale and complexity of the project. It also allowed me to understand how I wanted to lay out all of the busses and how I would control the different modes of the ALU.
-&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/media/BlockDiagram.png&#34; alt=&#34;the block diagram of the alu drawn in canva&#34;  /&gt;
-
-I next started desiging in Logisim which allows me to fully simulate the ALU and test my control circuts. I started by designing the adder/subtracter Circut which I used 5 chips for including the bus tranciver. Two 7486 chips to invert and generate the twos complement version of one of the numbers to allow for subraction. Two 74283 adder chips to do the additon and subtraction. Finally one 74245 to allow for access to the main output bus.
-&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/media/adder-subtractor.png&#34; alt=&#34;Photo of the completed design of the adder/subtractor circut&#34;  /&gt;
-
-I then designed the NAND module which would allow for any logic operations to be done by doing multiple operations on the same numbers. This module used three chips including the bus tranciver. I used two 7400 chips which have 4 NAND gates each. I used one 74245 to allow access to the main bus. This one is fairly simple and can be adapted to a different logic gate very easily.
-&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/media/NAND_module.png&#34; alt=&#34;Photo of the completed design of the NAND module&#34;  /&gt;
-&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="andywells.dev/post/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
