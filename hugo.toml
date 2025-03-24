@@ -1,20 +1,20 @@
 baseURL = 'andywells.dev'
 languageCode = 'en-us'
-title = 'Andy Wells Personal Site'
+title = 'Andy Wells'
 theme = 'PaperMod'
 
 [params.profileMode]
 enabled = true
 title = "Andy Wells"
 subtitle = "Computer engineering student and electronics hobbyist"
-imageUrl = "/media/ProfilePhoto.png"
-imageWidth = 120
+imageUrl = "/media/Hiking2.jpg"
+imageWidth = 134
 imageHeight = 120
-imageTitle = "my image"
+imageTitle = "Hiking Photo"
 
   [[params.profileMode.buttons]]
   name = "Projects"
-  url = "/post/"
+  url = "/projects/"
 
   [[params.profileMode.buttons]]
   name = "Resume"
@@ -27,7 +27,7 @@ imageTitle = "my image"
 [[menu.main]]
 identifier = 'Projects'
 name = 'Projects'
-url = '/post/'
+url = '/projects/'
 weight = '50'
 
 [[menu.main]]
