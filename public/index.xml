@@ -2,67 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Andy Wells Personal Site</title>
-    <link>andywells.dev/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Andy Wells Personal Site</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jun 2024 22:48:44 -0500</lastBuildDate>
-    <atom:link href="andywells.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Mar 2025 22:36:14 -0500</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Andy Wells</title>
-      <link>andywells.dev/cv/</link>
-      <pubDate>Wed, 12 Jun 2024 22:48:44 -0500</pubDate>
-      <guid>andywells.dev/cv/</guid>
-      <description>&lt;p&gt;378 S Macalester St. &lt;/p&gt;
-&lt;p&gt;St.Paul, MN 55105&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;(651)-210-5691&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;mailto:Andy@freude.com&#34;&gt;Andy@freude.com&lt;/a&gt; | &lt;a href=&#34;mailto:AndyWells@andywells.dev&#34;&gt;AndyWells@andywells.dev&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;h1 id=&#34;education&#34;&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;High school Saint Paul Academy High School, Graduated in May 2024&lt;/p&gt;
-&lt;p&gt;Computer Engineering Freshman at Iowa State University&lt;/p&gt;
-&lt;h1 id=&#34;skills&#34;&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/h1&gt;
+      <title>About Me</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Sun, 23 Mar 2025 22:36:14 -0500</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;h3 id=&#34;my-name-is-andy-wells-and-i-am-from-saint-paul-minnesota-orignially-and-am-currently-attending-iowa-state-university-for-computer-engieering-in-my-free-time-i-enjoy-singing-in-the-iowa-statesmen-gaming-and-doing-projects&#34;&gt;My name is Andy Wells and I am from Saint Paul Minnesota orignially and am currently attending Iowa State University for computer engieering. In my free time I enjoy singing in the Iowa Statesmen, Gaming and doing projects.&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/cv/</link>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/cv/</guid>
+      <description>&lt;h1 id=&#34;andy-wells&#34;&gt;Andy Wells&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:andy@andywells.dev&#34;&gt;andy@andywells.dev&lt;/a&gt; | (651)-210-5691 | Saint Paul, MN&lt;/p&gt;
+&lt;h3 id=&#34;objective&#34;&gt;&lt;strong&gt;Objective&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Seeking Internship or Co-op in computer engineering for summer 2026 or Co-op fall semester 2026/2027&lt;/p&gt;
+&lt;h3 id=&#34;education&#34;&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;iowa-state-university-college-of-engineering-ames-iowa-------------------------expected-may-2028&#34;&gt;&lt;strong&gt;Iowa State University, College of Engineering&lt;/strong&gt; Ames, Iowa                         Expected May 2028&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Bachelor of Science in Computer Engineering&lt;/em&gt;	                                            GPA 4.00/4.00&lt;/p&gt;
+&lt;h3 id=&#34;employment&#34;&gt;&lt;strong&gt;Employment&lt;/strong&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;northern-star-scouting-base-camp-fort-snelling-minnesota----------------------april-2024---present&#34;&gt;&lt;strong&gt;Northern Star Scouting Base Camp&lt;/strong&gt; Fort Snelling, Minnesota                      April 2024 - Present&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Program Guide&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Leadership&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Mentorship&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;C&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Python&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Norwegian&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Utilized leadership skills to lead groups through the camp activities of team-building games, archery, and rock climbing.&lt;/li&gt;
+&lt;li&gt;Through effective communication with co-workers and kids of all ages adapted on the fly when schedules didn’t work out.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;experience&#34;&gt;&lt;strong&gt;Experience&lt;/strong&gt;&lt;/h1&gt;
-&lt;h3 id=&#34;2022---present&#34;&gt;2022  - present&lt;/h3&gt;
-&lt;h3 id=&#34;saint-paul-arena-company-xcel-energy-center---usher&#34;&gt;&lt;strong&gt;Saint Paul Arena Company (Xcel Energy Center)&lt;/strong&gt; &lt;em&gt;- Usher&lt;/em&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Scanned tickets &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Make sure sections in the arena are orderly&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;A friendly person for people to ask questions to&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;2024---present&#34;&gt;2024  - present&lt;/h3&gt;
-&lt;h3 id=&#34;northern-star-scouting-base-camp---program-guide&#34;&gt;&lt;strong&gt;Northern Star Scouting Base Camp&lt;/strong&gt; &lt;em&gt;- Program Guide&lt;/em&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Led groups through Base Camp&lt;/p&gt;</description>
+&lt;h4 id=&#34;saint-paul-arena-company-xcel-energy-center-saint-paul-minnesota---november-2022---present&#34;&gt;&lt;strong&gt;Saint Paul Arena Company (Xcel Energy Center)&lt;/strong&gt; Saint Paul, Minnesota   November 2022 - Present&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Usher&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Test Post</title>
-      <link>andywells.dev/test/</link>
+      <link>//localhost:1313/test/</link>
       <pubDate>Wed, 12 Jun 2024 22:37:36 -0500</pubDate>
-      <guid>andywells.dev/test/</guid>
+      <guid>//localhost:1313/test/</guid>
       <description>&lt;p&gt;This ia a test page&lt;/p&gt;
 &lt;h6 id=&#34;hugo-is-really-cool&#34;&gt;Hugo is really cool&lt;/h6&gt;
 &lt;h1 id=&#34;h1&#34;&gt;H1&lt;/h1&gt;
@@ -74,13 +53,6 @@
 &lt;h2 id=&#34;this-is-a-test-page-used-to-tune-css-paramaters&#34;&gt;this is a test page used to tune css paramaters&lt;/h2&gt;
 &lt;p&gt;I love writing cool stuff like &lt;strong&gt;Bold&lt;/strong&gt; &lt;em&gt;test&lt;/em&gt; &lt;em&gt;&lt;strong&gt;test&lt;/strong&gt;&lt;/em&gt; test test test test test test test test&lt;/p&gt;
 &lt;p&gt;test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>andywells.dev/aboutme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>andywells.dev/aboutme/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

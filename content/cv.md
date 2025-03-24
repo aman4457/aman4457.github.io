@@ -1,149 +1,57 @@
 +++
-title = 'Andy Wells'
-date = 2024-06-12T22:48:44-05:00
+date = 2025-03-23
 draft = false
 +++
 
+# Andy Wells  
+andy@andywells.dev | (651)-210-5691 | Saint Paul, MN
 
-378 S Macalester St. 
+### **Objective**  
+Seeking Internship or Co-op in computer engineering for summer 2026 or Co-op fall semester 2026/2027
 
-St.Paul, MN 55105
+### **Education**  
+#### **Iowa State University, College of Engineering** Ames, Iowa                         Expected May 2028  
+*Bachelor of Science in Computer Engineering*	                                            GPA 4.00/4.00
 
-**(651)-210-5691**
+### **Employment**  
+#### **Northern Star Scouting Base Camp** Fort Snelling, Minnesota                      April 2024 \- Present
+*Program Guide*
 
-**Andy@freude.com | AndyWells@andywells.dev**
+* Utilized leadership skills to lead groups through the camp activities of team-building games, archery, and rock climbing.   
+* Through effective communication with co-workers and kids of all ages adapted on the fly when schedules didn’t work out. 
 
-**Education**
-=============
+#### **Saint Paul Arena Company (Xcel Energy Center)** Saint Paul, Minnesota   November 2022 \- Present  
+*Usher*
 
-High school Saint Paul Academy High School, Graduated in May 2024
+* Utilized quick thinking and troubleshooting skills by helping fans find and use digital tickets  
+* Utilized effective communication and attention to detail to make sure fans followed the rules and were able to find places in the arena
 
-Computer Engineering Freshman at Iowa State University
+### **Personal Projects**
 
-**Skills**
-==========
+#### **Homebrew 8-bit Arithmetic Logic Unit (ALU)**
 
-*   Leadership
-    
-*   Mentorship
-    
-*   C
-    
-*   Python
-    
-*   Norwegian
-    
-
-**Experience**
-==============
-
-### 2022  - present
-### **Saint Paul Arena Company (Xcel Energy Center)** _\- Usher_
-
-*   Scanned tickets 
-    
-*   Make sure sections in the arena are orderly
-    
-*   A friendly person for people to ask questions to
-    
-
-### 2024  - present
-
-### **Northern Star Scouting Base Camp** _\- Program Guide_
-
-*   Led groups through Base Camp
-    
-*   Run team-building games, run the archery range, and belay people up the rock wall
-    
-*   Kids from Kindergarten to high school age
-    
-
-### 2014 - 2024
-
-
-### **Scouts BSA** _\- Eagle scout and troop guide_ 
-
-*   Lead skill teaching for younger scouts
-    
-*   OA Ordeal Member
-    
-*   Planned and Completed a STEM-based Eagle project
-    
-*   Assistant Senior Patrol Leader, second in command of up entire troop, 2020 - 2021
-    
-    *   Helped with planning and leading meetings
-        
-*   Patrol leader of  a group of seven younger scouts, 2018 - 2019 
-    
-
-### 2012 - 2024
-
-
-### **Minnesota Boychoir** _\- Choirboy and Cantarando mentor_
-
-*   Participated  in all four of the choirs in the organization, currently a baritone
-    
-*   Mentored younger choir members
-    
-*   Senior year Helping make sure other choirboys are included and loading and unloading busses
-    
-
-### 2013 - 2023
-
-
-### **Skogfjorden (Norwegian camp)** _\- Camper_
-
-*   Attended Norwegian immersion camp for ten years
-    
-*   Helped many younger campers navigate camp and translate announcements 
-    
-
-### 2020 - 2022
-
-### **Spark club at Saint Paul Academy High School** _\- Project lead_
-
-*   Project lead for building a MIDI launchpad
-    
-*   Helped with recruiting at the club fair
-    
-
-### 2020-2022 2023-2024
-
-### **Robotics Team at Saint Paul Academy High School**_\- Coder and Engineer_
-
-*    Designed,  prototyped, and 3d modeled our intake mechanism in 2021
-    
-*    Designed,  prototyped, and 3d modeled our intake and outtake mechanism in 2023-2024
-    
-*   Mentored new coders
-    
-
-**Personal Projects**
-=====================
-
-### **Homebrew 8-bit ALU**
-
-*   Built Originally on breadboards
-    
-*   Taught me lots of troubleshooting and project management skills
-    
-*   Built using 74LS and 74HCT series TTL logic chips
-    
-*   Able to do Addition, Subtraction, NAND, and Right Shifts
-    
-*   Currently testing the first PCB version
-    
+* I first designed the logic in Logisim to do addition, subtraction, bitwise NAND, and Right bit shifts. I then built the ALU on breadboards using 74LS/TTL logic chips, and finally, I designed a PCB in KiCad using the same chips.  
+* Applied troubleshooting and project management skills
 
 ### **Websites**
 
-*   I have two personal websites, andy-wells.com (Wordpress) and andywells.dev (Hugo)
-    
-*   I manage multiple websites for my family members
-    
+* Applied troubleshooting and problem-solving skills to run two websites, one using word press and one using HUGO  
+* Applied similar skills running multiple word press websites for family members, including editing raw CSS to make the sites look better
 
-**Awards**
-==========
+### **Skills**
 
-Minnesota Boychoir alto section leader 2018 - 2019 and  2019-2020
+#### **Languages**
 
-Minnesota Boychoir Baritone Section Leader 2023 -2024o;8tivo76rice5uw4yxc6ev7bt8ny69m07,-8
+* Spoken/Written: Norwegian  
+* Computer: Beginner in C and Java, and intermediate in Python                  
+
+#### **Software**
+
+* Microsoft Office, Google Suite, and Logisim  
+* Beginner in: Kicad, Fusion 360, Onshape, Git, Linux, and HUGO        
+
+### **Activities and Leadership**
+
+  **Alpha Phi Omega Service Fraternity** \- *Member*                                                   October 2024 \- Present
+
+  **Eagle Scout**  								     Achieved April 2024
