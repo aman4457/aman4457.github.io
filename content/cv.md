@@ -20,7 +20,7 @@ Seeking Internship or Co-op in computer engineering for summer 2026 or Co-op fal
 * Utilized leadership skills to lead groups through the camp activities of team-building games, archery, and rock climbing.   
 * Through effective communication with co-workers and kids of all ages adapted on the fly when schedules didn’t work out. 
 
-#### **Saint Paul Arena Company (Xcel Energy Center)** Saint Paul, Minnesota   November 2022 \- Present  
+#### **Saint Paul Arena Company (Grand Casino Arena)** Saint Paul, Minnesota   November 2022 \- August 2025  
 *Usher*
 
 * Utilized quick thinking and troubleshooting skills by helping fans find and use digital tickets  
@@ -30,7 +30,13 @@ Seeking Internship or Co-op in computer engineering for summer 2026 or Co-op fal
 
 #### **Homebrew 8-bit Arithmetic Logic Unit (ALU)**
 
-* I first designed the logic in Logisim to do addition, subtraction, bitwise NAND, and Right bit shifts. I then built the ALU on breadboards using 74LS/TTL logic chips, and finally, I designed a PCB in KiCad using the same chips.  
+* I first designed the logic in Logisim to do addition, subtraction, bitwise NAND, and Right bit shifts. I then built the ALU on breadboards using 74LS/TTL logic chips, and finally, I designed a PCB in KiCad using the same chips.
+* Applied troubleshooting and project management skills
+
+#### **Homebrew 32-bit RISC-V CPU**
+
+* Designed and tested in Logisim, currently working on PCB design for multiple parts of the CPU like the ALU (Arithmetic Logic Unit), registers, and instruction decoding hardware
+* Fully compatible with the unprivileged RV32I architecture  
 * Applied troubleshooting and project management skills
 
 ### **Websites**

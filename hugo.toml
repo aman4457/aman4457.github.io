@@ -37,8 +37,8 @@ url = '/cv/'
 weight = '50'
 
 [[menu.main]]
-identifier = 'AboutMe'
-name = 'AboutMe'
+identifier = 'About Me'
+name = 'About Me'
 url = '/about/'
 weight = '50'
 
