@@ -7,11 +7,11 @@ draft = false
 andy@andywells.dev | (651)-210-5691 | Saint Paul, MN
 
 ### **Objective**  
-Seeking Internship or Co-op in computer engineering for summer 2026 or Co-op fall semester 2026/2027
+Seeking Internship or Co-op in computer engineering for summer 2027 or Co-op
 
 ### **Education**  
 #### **Iowa State University, College of Engineering** Ames, Iowa                         Expected May 2028  
-*Bachelor of Science in Computer Engineering*	                                            GPA 4.00/4.00
+*Bachelor of Science in Computer Engineering*	                                            GPA 3.95/4.00
 
 ### **Employment**  
 #### **Northern Star Scouting Base Camp** Fort Snelling, Minnesota                      April 2024 \- Present
@@ -26,7 +26,12 @@ Seeking Internship or Co-op in computer engineering for summer 2026 or Co-op fal
 * Utilized quick thinking and troubleshooting skills by helping fans find and use digital tickets  
 * Utilized effective communication and attention to detail to make sure fans followed the rules and were able to find places in the arena
 
-### **Personal Projects**
+### **Projects**
+
+#### **Budgeting App (COMS 3090 Software Development Practices)**
+* Collaborated in a four-person Scrum team using a Kanban board to manage development tasks. 
+* Built backend services in Java with Spring Boot, implementing REST endpoints and WebSocket communication.
+* Used Git and GitLab for version control, collaboration, and project management.
 
 #### **Homebrew 8-bit Arithmetic Logic Unit (ALU)**
 
