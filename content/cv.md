@@ -63,6 +63,7 @@ Seeking Internship or Co-op in computer engineering for summer 2027 or Co-op
 
 ### **Activities and Leadership**
 
-  **Alpha Phi Omega Service Fraternity** \- *Member*                                                   October 2024 \- Present
+  **Alpha Phi Omega Service Fraternity** \- *VP of service and leadership*                                                   October 2024 \- Present
+  * Organized 3+ events a month involving service and leadership
 
   **Eagle Scout**  								     Achieved April 2024
